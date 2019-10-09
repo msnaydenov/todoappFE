@@ -9,7 +9,7 @@ const Header = () => {
                 <a href="https://www.qa.com" className="navbar-brand" target="_blank" rel="noopener noreferrer">
                     <img src={logo} alt="QA Ltd" width="30" />
                 </a>
-                <a className="navbar-brand" href="#">QA Todo App</a>
+                <a className="navbar-brand" href="#">QA Todo App MODIFIED</a>
             </nav>
         </header>
     );
