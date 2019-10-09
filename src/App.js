@@ -8,7 +8,7 @@ import AllTodos from './Components/AllTodos';
 import AddTodo from './Components/AddTodo';
 //import sampleTodos from './sampleTodos.json';
 
-const TODOSURL = `192.168.1.102:4000`;
+const TODOSURL = `http://192.168.1.102:4000`;
 
 const App = () => {
   const [todos, setTodos] = useState([]);
